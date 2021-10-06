@@ -1,0 +1,181 @@
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+.breadrcrumb_text {
+    margin-bottom: 35px;
+}
+.about_text p {
+    padding: 0px 100px;
+    
+}
+.about_right h2 {
+    padding-top: 20px;
+}
+.skill_part {
+    padding: 20px 0px;
+}
+.counter i {
+    left: 45%;
+}
+.counter {
+    margin-bottom: 40px;
+}
+.services_text p {
+    padding: 0px 100px;
+ 
+}
+.services_bottom {
+    margin-bottom: 20px;
+}
+.frotofolio_text p {
+    padding: 0px 100px;
+}
+.team_text p {
+    padding: 0px 100px;
+}
+.pricing_text p {
+    padding: 0px 100px;
+}
+.question_text p {
+    padding: 0px 100px;
+}
+.accordion-head h3 {
+    padding: 0px 24px;
+}
+.footer_bottom h6 {
+    text-align: center;
+}
+.footer_bottom p {
+    text-align: center;
+}
+.photo img {
+    width: 100px;
+    height: 100px;
+}
+ .photo{
+    text-align: center;
+ }
+ .footer_two {
+    margin-top: 13px;
+}
+.navbar-toggler {
+    margin-right: 20px;
+}
+.navbar-brand {
+    margin-left: 20px;
+}
+}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+.breadrcrumb_text {
+    margin-bottom: 35px;
+}
+.about_text p {
+    padding: 0px 100px;
+    
+}
+.about_right h2 {
+    padding-top: 20px;
+}
+.skill_part {
+    padding: 20px 0px;
+}
+.counter i {
+    left: 45%;
+}
+.counter {
+    margin-bottom: 40px;
+}
+.services_text p {
+    padding: 0px 100px;
+ 
+}
+.services_bottom {
+    margin-bottom: 20px;
+}
+.frotofolio_text p {
+    padding: 0px 100px;
+}
+.team_text p {
+    padding: 0px 100px;
+}
+.pricing_text p {
+    padding: 0px 100px;
+}
+.question_text p {
+    padding: 0px 100px;
+}
+.accordion-head h3 {
+    padding: 0px 24px;
+}
+.footer_bottom h6 {
+    text-align: center;
+}
+.footer_bottom p {
+    text-align: center;
+}
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+.navbar-light .navbar-nav .nav-link {
+    margin-right: 3px;
+    text-align: center;
+}
+
+.about_text p {
+    padding: 0px 206px;
+}
+
+.about_right h2 {
+    padding-top: 40px;
+}
+
+.photo img {
+    width: 90px;
+    height: 50px;
+}
+
+.photo_part {
+    padding: 25px 0px;
+
+}
+
+.services_text p {
+    padding: 0px 201px;
+}
+.frotofolio_text p {
+    padding: 0px 201px;
+}
+    .team_text p {
+    padding: 0px 201px;
+    
+}
+    .pricing_text p {
+    padding: 0px 201px;
+   
+}
+    .question_text p {
+    padding: 0px 201px;
+}
+    .footer_bottom h6 {
+    margin-top: -41px;
+}
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+
+
+}
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+
+
+}
